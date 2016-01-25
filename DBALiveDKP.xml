@@ -1,0 +1,10 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+	<Button name="DBALiveDKP_HeaderButtonTemplate" virtual="true">
+	    <ButtonText name="$parentText" justifyH="LEFT"/>
+	    <NormalFont style="GameFontNormal"/>
+	    <HighlightFont style="GameFontHighlight"/>
+	    <DisabledFont style="GameFontDisable"/>
+	    <HighlightTexture file="Interface\PaperDollInfoFrame\UI-Character-Tab-Highlight" alphaMode="ADD" setAllPoints="true"/>
+	</Button>
+</Ui>

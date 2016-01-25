@@ -1,0 +1,18 @@
+JDKP download log file
+System time: Freitag, 1. Januar 2016 21:41 Uhr MEZ
+Profile:
+Name: DBA DEV
+Encoding: UTF-8
+EQDKP URL: https://dba.saij.de/api.php
+Connection timeout: 10000
+Local path: C:\WoWDev\Interface\AddOns\DBALiveDKP\DBALiveDKP_Data.lua
+Game interface: com.eqdkplus.jdkp.output.WoWGetDKPClassicInterface
+Execute path: null
+Used: 3
+Profile file: C:\Users\friedrich\jdkp\profiles\DBA DEV.jdp
+
+Verbinde mit https://dba.saij.de/api.php
+Lade von dba.saij.de
+Verarbeiten
+Speichern
+Download von https://dba.saij.de/api.php erfolgreich
